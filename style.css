@@ -207,6 +207,17 @@
                 }
                 .text1 {
                     position: relative;
+                    width: 291.87188720703125px;
+                    height: 92px;
+                    top: 98px;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 24px;
+                    text-align: center;
+                    color: #17494D;
+                }
+                .text2 {
+                    position: relative;
                     width: 302.66876220703125px;
                     height: 92px;
                     top: 98px;
@@ -296,7 +307,7 @@
                 height: 92px;
                 top: 49px;
                 left: 8px;
-                font-weight: 700;
+                font-weight: 400;
                 font-size: 16px;
                 line-height: 24px;
                 color: #17494D;
@@ -364,8 +375,8 @@
                 color: #FFFFFF;
             }
             .text {
-                width: 100%;
-                height: 100%px;
+                width: 542.8250122070312px;
+                height: 100%;
                 font-weight: 400;
                 font-size: 16px;
                 line-height: 24px;
@@ -432,11 +443,11 @@
             }
             .text {
                 position: relative;
-                width: 535.0125122070312px;
+                width: 535.01px;
                 height: 92px;
                 top: 49px;
                 left: 8px;
-                font-weight: 700;
+                font-weight: 400;
                 font-size: 16px;
                 line-height: 24px;
                 color: #17494D;
@@ -743,7 +754,7 @@
                         height: 24px;
                         display: flex;
                         align-items: center;
-                        top: 48px;
+                        top: 53px;
                         
                         .text-line {
                             font-weight: 700;
