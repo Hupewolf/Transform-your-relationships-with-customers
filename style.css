@@ -8,6 +8,7 @@
 .textmiddle {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .head {
@@ -30,6 +31,7 @@
 
             .intro-text {
                 position: relative;
+                width: 206.9812469482422px;
                 height: 15px;
                 top: 3px;
                 left: 8px;
@@ -41,6 +43,7 @@
             }
             .main-text {
                 position: relative;
+                width: 494.27813720703125px;
                 height: 232px;
                 top: 19px;
                 left: 8px;
@@ -51,6 +54,7 @@
             }
             .text {
                 position: relative;
+                width: 504.34063720703125px;
                 height: 76px;
                 top: 51px;
                 left: 8px;
@@ -227,10 +231,14 @@
 .sec3 {
     width: 100%;
     height: 575px;
-    padding: 64px 168px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #f8f9f9;
 
     .container {
+        width: 1104px;
+        height: 447px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -244,6 +252,7 @@
             height: 306px;
             .intro-text {
                 position: relative;
+                width: 242.9812469482422px;
                 height: 15px;
                 top: 3px;
                 left: 8px;
@@ -366,10 +375,14 @@
 .sec5 {
     width: 100%;
     height: 497.984375px;
-    padding: 64px 168px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #FFFFFF;
 
     .container {
+        width: 1104px;
+        height: 369.984375px;
         display: flex;
         align-items: center;
         justify-content: center ;
@@ -717,7 +730,7 @@
                     }
                     .num-box {
                         position: relative;
-                        width: 490.65625px;
+                        width: 100%;
                         height: 136px;
                         top: 53px;
                         display: flex;
