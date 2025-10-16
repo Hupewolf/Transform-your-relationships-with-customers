@@ -575,10 +575,19 @@
                         height: 64px;
                     }
                     .main-text {
-                        width: 280.76251220703125px;
+                        width: 234.2312469482422px;
                         height: 24px;
                         font-weight: 700;
                         font-size: 20px;
+                        line-height: 32px;
+                        text-align: center;
+                        color: #03363D;
+                    }
+                    .main-text1 {
+                        width: 187.4343719482422px;
+                        height: 24px;
+                        font-weight: 700;
+                        font-size: 21px;
                         line-height: 32px;
                         text-align: center;
                         color: #03363D;
@@ -901,7 +910,7 @@
                                 }
                                 .num-text {
                                     font-weight: 400;
-                                    font-size: 13px;
+                                    font-size: 14px;
                                     line-height: 100%;
                                     text-align: center;
                                     color: #17494D;
